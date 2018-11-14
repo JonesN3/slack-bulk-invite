@@ -3,9 +3,6 @@ import fs from 'fs';
 
 const args = process.argv.slice(2);
 
-let createdChannel = '';
-let inviteList = '';
-
 if (args[0] == null) {
   inform('Usage: getUsers <API_TOKEN>');
   process.exit(1);
