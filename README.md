@@ -1,6 +1,12 @@
-== Usage
-The code is written with ES6 syntax, use `node --experimental-module` or use babel to transpile it (you can do 'yarn transpile' to create a transpiled file called bulk.js)
 
+# slack-bulk-invite
+
+Create and invite bulks of your team and channels and groups (private channels).
+
+Note: the code is written with ES6 syntax, use `node --experimental-module` or use babel to transpile it (you can do 'yarn transpile' to create a transpiled file called bulk.js).
+
+
+## Usage
 Exlude and include list on this form:
 `-i 'user1, user2, user3'`
 
