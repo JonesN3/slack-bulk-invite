@@ -6,7 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "fs": "^0.0.1-security",
-    "node-fetch": "^2.3.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
